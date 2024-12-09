@@ -346,6 +346,7 @@ Cyber Security Tools
 * [pagodo](https://github.com/opsdisk/pagodo) - Automate Google Hacking Database scraping.
 * [surfraw](https://github.com/kisom/surfraw) - Fast UNIX command line interface to a variety of popular WWW search engines.
 * [GyoiThon](https://github.com/gyoisamurai/GyoiThon) - GyoiThon is an Intelligence Gathering tool using Machine Learning.
+* [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolkit to check if the email address or domain was compromised in a global Infostealer malware attack. 
 
 ### Anonymity Tools
 
